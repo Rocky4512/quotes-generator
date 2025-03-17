@@ -21,3 +21,4 @@ and we can share in twitter
 ![Random Quote Generator](review.png)
 
 ## deployment link
+link: (https://quotes-generator-iota-teal.vercel.app/)
